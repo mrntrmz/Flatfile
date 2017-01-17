@@ -11,6 +11,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  cours:
+    title: cours
+    output: true
 defaults:
 - scope:
     path: ''
