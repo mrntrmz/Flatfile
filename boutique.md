@@ -1,0 +1,8 @@
+---
+title: Boutique
+layout: products
+---
+
+{% for product in site.products %}
+  {% include product.html %}
+{% endfor %}

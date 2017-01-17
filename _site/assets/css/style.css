@@ -1,0 +1,22 @@
+body{
+
+}
+h1{
+    font-family: open sans;
+    color: white;
+}
+
+.wrapper2{
+     background-size:cover;
+     background-image: url(../img/uqyhjogyxyy-kalen-emsley.jpg)
+}
+.wrapper{
+    margin:0 auto;
+    max-width: 45rem;
+    background-color:aliceblue;
+    color: cadetblue;
+    padding: 2%;
+}
+main h1{
+    text-align: center;
+}
