@@ -1,5 +1,5 @@
 ---
-title: Cours
+title: cours
 layout: page
 ---
 
