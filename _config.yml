@@ -2,9 +2,6 @@
 title: MyLand
 timezone: UTC
 collections:
-  cours:
-    title: Cours
-    output: true
   posts:
     title: Posts
     output: true
