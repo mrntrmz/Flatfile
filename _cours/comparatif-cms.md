@@ -1,8 +1,8 @@
 # CMS
 
-*worpress
-*joomla
-*brupal
+* worpress
+* joomla
+* drupal
 
 
 
