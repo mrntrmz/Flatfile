@@ -1,0 +1,35 @@
+---
+title: MyLand
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  products:
+    title: Products
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  cours:
+    title: cours
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: productdetails
+    name: ''
+    price: 0.0
+    sku: ''
+    image: ''
+    weight: 0.0
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+key: value.
+snipcart_api_key: 
+permalink: pretty

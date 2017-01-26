@@ -1,0 +1,31 @@
+---
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="fr">
+
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+  <nav>
+    {% assign pages=site.html_pages %}
+    <ul class="nav nav-tabs">
+  {% for p in pages %}
+    <li>
+      <a href="{{ p.url }}">{{ p.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+
+  </nav>
+
+  <main class="container">
+
+    {{content}}
+  </main>
+
+  {% include footer.html %}
+</body>
+
+</html>
