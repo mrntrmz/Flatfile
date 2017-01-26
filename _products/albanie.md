@@ -2,7 +2,7 @@
 title: albanie
 name: albanie
 price: 10
-sku: BLG
+sku: ALB
 image: "/img/albanie.png"
 layout: productdetails
 ---
