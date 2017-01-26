@@ -2,7 +2,7 @@
 title: nouvelle irlande
 name: nouvelle irlande
 price: 30
-sku: BLG
+sku: NILD
 image: "/img/newirlande.jpg"
 layout: productdetails
 ---
