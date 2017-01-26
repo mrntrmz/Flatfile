@@ -2,11 +2,10 @@
 title:  tasmanie
 name:  tasmanie
 price: 3000
-sku: BLG
+sku: TAS
 image: "/img/tasmanie.jpg"
 layout: productdetails
 ---
-
      hab : 40000hab
      temps livraison: 1ans
      mode delivraison: tracter par bateaux a vapeur
