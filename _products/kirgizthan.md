@@ -2,7 +2,7 @@
 title: albanie
 name: albanie
 price: 1000 negociable
-sku: BLG
+sku: Krt
 image: "/img/kirgizthan.jpg"
 layout: productdetails
 ---
