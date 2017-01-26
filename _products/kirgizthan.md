@@ -1,6 +1,6 @@
 ---
-title: albanie
-name: albanie
+title: kirgizthan
+name: kirgizthan
 price: 1000 negociable
 sku: Krt
 image: "/img/kirgizthan.jpg"
