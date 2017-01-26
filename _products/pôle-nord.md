@@ -2,8 +2,8 @@
 title: Pôle Nord
 name: pole nord
 price: 30
-sku: PN
-image: "/img/polenord.jpg"
+sku: POL
+image: "/img/pole-nord.jpg"
 layout: productdetails
 ---
 
