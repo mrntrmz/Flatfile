@@ -3,7 +3,7 @@ title: Iceberg
 name: Iceberg
 price: 500
 sku: ICE
-image: "/img/iceberg.jpg"
+image: "/img/iceberge.jpg"
 layout: productdetails
 ---
 
