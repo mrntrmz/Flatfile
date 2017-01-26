@@ -3,7 +3,7 @@ title: albanie
 name: albanie
 price: 10
 sku: BLG
-image: "../img/albanie.png"
+image: "/img/albanie.png"
 layout: productdetails
 ---
 
