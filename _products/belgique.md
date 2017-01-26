@@ -1,8 +1,8 @@
 ---
 title: Belgique
-name: belgique
+name: Belgique
 price: 1000
-sku: BLG
+sku: BEL
 image: "/img/belgique.jpg"
 layout: productdetails
 ---
