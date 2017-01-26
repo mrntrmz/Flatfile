@@ -1,15 +1,15 @@
 ---
-title: île flottante
-name: île flottante
-price: 300
-sku: BLG
-image: "/img/belgique.jpg"
+title: Iceberg
+name: Iceberg
+price: 500
+sku: ICE
+image: "/img/iceberg.jpg"
 layout: productdetails
 ---
 
-hab : 0
-temps livraison: 3j
+hab : 1 ours
+temps livraison: 1semaine
 mode delivraison: bateau
-certificat: être autonom
-label: 100% île naturel
-descrition: pays tout terrin ( roche, lac, page (galet), arbre, fleur) possible de posser une chaise, en premium(10cm de plus) le parasol est offert.
+certificat: /
+label: 100% île naturel, 100% froid
+descrition: cette ile flottante offre une vue ravisente sur les environs, la température y est agréable et l'ours est très gentil.( nous ne somme pas responsable de la fonte/écroulement éventuelle de l'iceberg)
